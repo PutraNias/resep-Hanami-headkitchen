@@ -1,0 +1,4 @@
+npm init -y
+npm install firebase @vitejs/plugin-basic-ssl vite
+
+npm run dev
